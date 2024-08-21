@@ -1,1 +1,1 @@
-"# Codewars" 
+All codewars solved questions are in the /problems dir
