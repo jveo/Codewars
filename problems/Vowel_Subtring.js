@@ -1,4 +1,4 @@
-export function findSubstring(s,k) {
+function findSubstring(s,k) {
     let stringArr = []
     let vowelCountArr = []
     var i = 0
@@ -36,3 +36,5 @@ function countVowels(str){
      }
     return count
 }
+
+findSubstring("randomword", 3)
